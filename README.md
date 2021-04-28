@@ -11,9 +11,13 @@
 
 *a bulleted list. 
 
-1.a numbered list.
-2.a numbered list.
+1.a numbered list.  
+
+2.a numbered list.  
+
 3.a numbered list.  
+
+ 
 
 |  table   | table  |
 |  ----  | ----  |
